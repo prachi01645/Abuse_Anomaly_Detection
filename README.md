@@ -23,6 +23,10 @@ Abusive: This is terrible
 
 Summary: 3/5 messages flagged as abusive (60.0%)
 
+## Example Output Image
+<img width="680" height="259" alt="image" src="https://github.com/user-attachments/assets/5302c660-b4b1-4de8-ada0-17a3f8020fab" />
+
+
 ## Independent Work
 This project was independently developed by Prachi Ghoghari.
 # Abuse_Anomaly_Detection
