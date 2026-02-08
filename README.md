@@ -5,7 +5,7 @@ This project detects abusive or anomalous text messages using pure Python.
 It is fully self-contained and does not require any external libraries.
 
 ## How to Run
-1. Open `abuse_detection.py` in Python 3.x
+1. Open `[abuse_detection.py](url)` in Python 3.x
 2. Run the script
 3. Check console output for flagged messages
 
