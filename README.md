@@ -10,14 +10,15 @@ It is fully self-contained and does not require any external libraries.
 3. Check console output for flagged messages
 
 ## Example Output
-![Example Output](./example_output.png)
-
-Abuse Detection Output:
 
 Safe: You are amazing!
+
 Abusive: I hate you!
+
 Abusive: You are stupid
+
 Safe: Have a great day!
+
 Abusive: This is terrible
 
 Summary: 3/5 messages flagged as abusive (60.0%)
