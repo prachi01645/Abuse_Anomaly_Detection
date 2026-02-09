@@ -4,6 +4,16 @@
 This project detects abusive or anomalous text messages using pure Python. 
 It is fully self-contained and does not require any external libraries.
 
+## Methodology
+
+ Step 1: Input Parsing – Messages are read from a list (or file)
+
+ Step 2: Keyword Matching – Checks for abusive words
+
+ Step 3: Anomaly Detection – Flags suspicious messages
+
+ Step 4: Output Classification – Labels messages as Safe or Abusive
+
 ## How to Run
 1. Open [abuse_detection.py](./abuse_detection.py) in Python 3.x
 2. Run the script
